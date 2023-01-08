@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### - 🔭 I’m currently working on Aibles, Ekoios
-### - 🌱 I’m currently learning create an awesome profile
-### - 🤔 I’m looking for help with my ardor
+### - 🌱 Now, I’m seeking chances to work overseas.
+### - 🤔 I’m actually interested in projects related to Block-chain
 ### - 💬 Ask me about everything
 ### - ⚡ I am in love  :)
 <img src="https://i1.sndcdn.com/artworks-000234683727-7edevl-t500x500.jpg" width="50%" heigh="50%">
