@@ -40,7 +40,7 @@ node --watch server.js
 # Endpoints ##
 
 
-### video-call ###
+## video-call ###
 
 ### RTC Token ###
 The `rtc` token endpoint requires a `channelName`, `role` ('publisher' or 'audience'), `tokentype` ('uid' || 'userAccount') and the user's `uid` (type varies based on `tokentype` (example: `1000` for uid, `ekaansh` for userAccount). 
@@ -85,3 +85,53 @@ response:
   "rtmToken":" " 
 } 
 ```
+
+## Chat ###
+
+### RTC chat token ###
+**endpoint structure** 
+```
+/chat/token
+```
+body:
+``` 
+{
+  "username":" ",
+  "password":" " 
+} 
+
+response:
+``` 
+{
+  "rtcToken":" "
+} 
+
+### add super admin ###
+**endpoint structure** 
+```
+/chat/super-admin
+```
+body:
+``` 
+{
+  "username":" "
+} 
+
+response:
+``` 
+{
+  
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
