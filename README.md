@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 
 This project shows a picture about how to integrate with Agora fundamentally
 ### Built With
@@ -121,6 +121,7 @@ body:
 {
   "username":" "
 } 
+```
 
 response:
 ``` 
