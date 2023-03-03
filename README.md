@@ -42,6 +42,7 @@ node --watch server.js
 
 ## video-call ###
 
+
 ### RTC Token ###
 The `rtc` token endpoint requires a `channelName`, `role` ('publisher' or 'audience'), `tokentype` ('uid' || 'userAccount') and the user's `uid` (type varies based on `tokentype` (example: `1000` for uid, `ekaansh` for userAccount). 
 `(optional)` Pass an integer to represent the token lifetime in seconds.
@@ -123,6 +124,13 @@ response:
   
 } 
 
+
+# Web demo ##
+* Agora's web demo: https://webdemo.agora.io/basicVideoCall/index.html
+
+# References ##
+* https://github.com/AgoraIO-Community/Agora-Node-TokenServer
+* https://github.com/AgoraIO/Tools/tree/master/DynamicKey/AgoraDynamicKey
 
 
 
