@@ -57,7 +57,7 @@ response:
 {"rtcToken":" "} 
 ```
 
-## RTM Token ##
+### RTM Token ###
 The `rtm` token endpoint requires the user's `uid`. 
 `(optional)` Pass an integer to represent the privelege lifetime in seconds.
 **endpoint structure** 
@@ -91,6 +91,7 @@ response:
 
 ### RTC chat token ###
 Getting token to chat one to one.
+
 **endpoint structure** 
 ```
 /chat/token
@@ -110,8 +111,9 @@ response:
 }
 ```
 
-### adding super admin ###
+### Adding super admin ###
 Assign role super admin in order to manage a room chat.
+
 **endpoint structure** 
 ```
 /chat/super-admin
