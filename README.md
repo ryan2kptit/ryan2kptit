@@ -90,6 +90,7 @@ response:
 ## Chat ###
 
 ### RTC chat token ###
+Getting token to chat one to one.
 **endpoint structure** 
 ```
 /chat/token
@@ -100,14 +101,17 @@ body:
   "username":" ",
   "password":" " 
 } 
+```
 
 response:
 ``` 
 {
   "rtcToken":" "
-} 
+}
+```
 
-### add super admin ###
+### adding super admin ###
+Assign role super admin in order to manage a room chat.
 **endpoint structure** 
 ```
 /chat/super-admin
@@ -120,9 +124,9 @@ body:
 
 response:
 ``` 
-{
-  
-} 
+{ }
+
+```
 
 
 # Web demo ##
