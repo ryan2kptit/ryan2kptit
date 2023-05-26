@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - 🔭 I’m currently working on Aibles, Ekoios
+### - 🔭 I’m currently working on Savvycom software
 ### - 🌱 Now, I’m seeking chances to work overseas.
 ### - 🤔 I’m actually interested in projects related to Block-chain
 ### - 💬 Ask me about everything
