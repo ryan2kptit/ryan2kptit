@@ -2,8 +2,9 @@
 ### - 🔭 I’m currently working on Savvycom software
 ### - 🌱 Now, I’m seeking chances to work overseas.
 ### - 🤔 I’m actually interested in projects related to Block-chain
-### - 💬 Ask me about everything
 ### - 📫 I'm self-reflective. Recognize your mistakes and repair them.
+### - 💬 Ask me about everything
+
 <img src="https://i1.sndcdn.com/artworks-000234683727-7edevl-t500x500.jpg" width="50%" heigh="50%">
 <!--
 **ryan2kptit/ryan2kptit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
