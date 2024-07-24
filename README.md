@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - 🔭 I’m currently working on Savvycom software
+### - 🔭 I’m currently working on Aibles
 ### - 🌱 Now, I’m seeking chances to work overseas.
 ### - 🤔 I’m actually interested in projects related to Block-chain
 ### - 📫 I'm self-reflective. Recognize your mistakes and repair them.
